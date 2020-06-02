@@ -50,6 +50,7 @@ class SwuLogin(object):
 
 	def getSessionId(self):
 		url_login = 'http://222.198.127.170'
+
 		headers = {
 			'Host': '222.198.127.170',
 			'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
